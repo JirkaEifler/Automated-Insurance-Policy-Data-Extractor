@@ -1,0 +1,19 @@
+# macOS / IDE
+.DS_Store
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Pracovní data a logy
+POJISTOVNY_workin_slozka/PDFka/
+POJISTOVNY_workin_slozka/ZPRACOVANE/
+POJISTOVNY_workin_slozka/CHYBY/
+POJISTOVNY_workin_slozka/EVIDENCE_UDAJE_AUTA.csv
+Pojistovny/log.txt
+
+# Těžké binárky (poppler a spol.)
+POJISTOVNY_workin_slozka/AI/poppler-24.08.0/
